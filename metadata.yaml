@@ -1,0 +1,31 @@
+_repo: Het-Auteursrechtin-het-Nederlandsche-en-internationale-recht_37500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaufort, H. L. de (Henri Louis)
+    aliases:
+    - Beaufort, Henri Louis de
+    - De Beaufort, H. L. (Henri Louis)
+    birthdate: 1880
+    deathdate: 1960
+    gutenberg_agent_id: '38878'
+    url: http://www.gutenberg.org/2009/agents/38878
+description: ''
+gutenberg_issued: '2011-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37500'
+  lccn: '10021081'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copyright -- Netherlands'
+- !lcsh 'Copyright, International'
+- !lcc 'Z'
+title: Het Auteursrecht in het Nederlandsche en internationale recht
+url: http://www.gutenberg.org/ebooks/37500
